@@ -1,0 +1,9 @@
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderMT\bin\Release\netcoreapp2.1\win10-x64\WebApiReaderMT.deps.json
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderMT\bin\Release\netcoreapp2.1\win10-x64\WebApiReaderMT.dll
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderMT\bin\Release\netcoreapp2.1\win10-x64\WebApiReaderMT.pdb
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderMT\obj\Release\netcoreapp2.1\win10-x64\WebApiReaderMT.csprojAssemblyReference.cache
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderMT\obj\Release\netcoreapp2.1\win10-x64\WebApiReaderMT.csproj.CoreCompileInputs.cache
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderMT\obj\Release\netcoreapp2.1\win10-x64\WebApiReaderMT.AssemblyInfoInputs.cache
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderMT\obj\Release\netcoreapp2.1\win10-x64\WebApiReaderMT.AssemblyInfo.cs
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderMT\obj\Release\netcoreapp2.1\win10-x64\WebApiReaderMT.dll
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderMT\obj\Release\netcoreapp2.1\win10-x64\WebApiReaderMT.pdb

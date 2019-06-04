@@ -1,0 +1,17 @@
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\bin\Release\netcoreapp2.1\win10-x64\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\bin\Release\netcoreapp2.1\win10-x64\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\bin\Release\netcoreapp2.1\win10-x64\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\bin\Release\netcoreapp2.1\win10-x64\WebApiReaderTests.deps.json
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\bin\Release\netcoreapp2.1\win10-x64\WebApiReaderTests.runtimeconfig.json
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\bin\Release\netcoreapp2.1\win10-x64\WebApiReaderTests.runtimeconfig.dev.json
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\bin\Release\netcoreapp2.1\win10-x64\WebApiReaderTests.dll
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\bin\Release\netcoreapp2.1\win10-x64\WebApiReaderTests.pdb
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\bin\Release\netcoreapp2.1\win10-x64\WebApiReaderMT.dll
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\bin\Release\netcoreapp2.1\win10-x64\WebApiReaderMT.pdb
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\obj\Release\netcoreapp2.1\win10-x64\WebApiReaderTests.csprojAssemblyReference.cache
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\obj\Release\netcoreapp2.1\win10-x64\WebApiReaderTests.csproj.CoreCompileInputs.cache
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\obj\Release\netcoreapp2.1\win10-x64\WebApiReaderTests.AssemblyInfoInputs.cache
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\obj\Release\netcoreapp2.1\win10-x64\WebApiReaderTests.AssemblyInfo.cs
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\obj\Release\netcoreapp2.1\win10-x64\WebApiReaderTests.csproj.CopyComplete
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\obj\Release\netcoreapp2.1\win10-x64\WebApiReaderTests.dll
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\obj\Release\netcoreapp2.1\win10-x64\WebApiReaderTests.pdb

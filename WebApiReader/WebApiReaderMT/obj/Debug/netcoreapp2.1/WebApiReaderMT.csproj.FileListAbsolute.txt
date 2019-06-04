@@ -1,0 +1,9 @@
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderMT\bin\Debug\netcoreapp2.1\WebApiReaderMT.deps.json
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderMT\bin\Debug\netcoreapp2.1\WebApiReaderMT.dll
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderMT\bin\Debug\netcoreapp2.1\WebApiReaderMT.pdb
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderMT\obj\Debug\netcoreapp2.1\WebApiReaderMT.csproj.CoreCompileInputs.cache
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderMT\obj\Debug\netcoreapp2.1\WebApiReaderMT.AssemblyInfoInputs.cache
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderMT\obj\Debug\netcoreapp2.1\WebApiReaderMT.AssemblyInfo.cs
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderMT\obj\Debug\netcoreapp2.1\WebApiReaderMT.dll
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderMT\obj\Debug\netcoreapp2.1\WebApiReaderMT.pdb
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderMT\obj\Debug\netcoreapp2.1\WebApiReaderMT.csprojAssemblyReference.cache

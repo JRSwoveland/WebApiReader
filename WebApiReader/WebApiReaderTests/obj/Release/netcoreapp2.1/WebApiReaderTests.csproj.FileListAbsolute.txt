@@ -1,0 +1,17 @@
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\bin\Release\netcoreapp2.1\WebApiReaderTests.deps.json
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\bin\Release\netcoreapp2.1\WebApiReaderTests.runtimeconfig.json
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\bin\Release\netcoreapp2.1\WebApiReaderTests.runtimeconfig.dev.json
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\bin\Release\netcoreapp2.1\WebApiReaderTests.dll
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\bin\Release\netcoreapp2.1\WebApiReaderTests.pdb
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\bin\Release\netcoreapp2.1\WebApiReaderMT.dll
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\bin\Release\netcoreapp2.1\WebApiReaderMT.pdb
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\obj\Release\netcoreapp2.1\WebApiReaderTests.csprojAssemblyReference.cache
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\obj\Release\netcoreapp2.1\WebApiReaderTests.csproj.CoreCompileInputs.cache
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\obj\Release\netcoreapp2.1\WebApiReaderTests.AssemblyInfoInputs.cache
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\obj\Release\netcoreapp2.1\WebApiReaderTests.AssemblyInfo.cs
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\obj\Release\netcoreapp2.1\WebApiReaderTests.csproj.CopyComplete
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\obj\Release\netcoreapp2.1\WebApiReaderTests.dll
+D:\NexTech\WebApiReader\WebApiReader\WebApiReaderTests\obj\Release\netcoreapp2.1\WebApiReaderTests.pdb

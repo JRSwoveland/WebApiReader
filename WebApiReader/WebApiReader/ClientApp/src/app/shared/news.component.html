@@ -1,0 +1,16 @@
+<h1>{{ source.title }}</h1>
+
+<p>{{ source.description }}</p>
+
+<form #searchForm="ngForm" (ngSubmit)="onSubmit($event)">
+  <input name="search" type="text" class="input-xxlarge">
+  <button type="submit" class="btn btn-default">Search  <span class="glyphicon glyphicon-search"></span> </button>
+</form>
+
+<p></p>
+
+<p *ngIf="!articles"><em>Loading...</em></p>
+
+<div class="list-group">
+  <a *ngFor="let article of articles" href="{{ article.url }}" class="list-group-item">{{ article.headline }}</a>
+</div>
